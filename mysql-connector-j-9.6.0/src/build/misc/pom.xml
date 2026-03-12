@@ -23,8 +23,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mysql</groupId>
-  <artifactId>@MYSQL_CJ_EXTENDED_PROD_NAME@</artifactId>
-  <version>@MYSQL_CJ_VERSION@</version>
+  <artifactId>mysql-connector-j</artifactId>
+  <version>9.6.0</version>
   <packaging>jar</packaging>
 
   <name>MySQL Connector/J</name>
@@ -33,7 +33,7 @@
 
   <licenses>
     <license>
-      <name>@MYSQL_CJ_LICENSE_NAME@</name>
+      <name>The GNU General Public License, v2 with Universal FOSS Exception, v1.0</name>
       <distribution>repo</distribution>
       <comments>For detailed license information see the LICENSE file in this distribution.</comments>
     </license>
